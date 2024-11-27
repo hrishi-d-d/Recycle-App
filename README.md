@@ -7,17 +7,6 @@ A cutting-edge mobile application designed to simplify and incentivize the recyc
 
 ---
 
-## 📜 Table of Contents  
-- [About the Project](#about-the-project)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
 ## 📖 About the Project  
 The **Recycle App** simplifies the recycling process by allowing users to:  
 1. Locate nearby recycling centers.  
